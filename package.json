@@ -22,7 +22,7 @@
     "react-transition-group": "^2.5.0",
     "release-it": "^7.6.3",
     "seedrandom": "^2.4.4",
-    "ssh2": "^0.6.1",
+    "ssh2": "^1.4.0",
     "store": "^2.0.12",
     "typeface-montserrat": "0.0.54",
     "url-parse": "^1.4.4",
