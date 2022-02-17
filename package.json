@@ -25,7 +25,7 @@
     "ssh2": "^0.6.1",
     "store": "^2.0.12",
     "typeface-montserrat": "0.0.54",
-    "url-parse": "^1.4.4",
+    "url-parse": "^1.5.6",
     "vinyl-fs": "^3.0.3",
     "vinyl-ftp": "^0.6.1"
   },
